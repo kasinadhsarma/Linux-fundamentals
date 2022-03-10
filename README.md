@@ -102,4 +102,44 @@ Hi Hello today we see about 34 command lines daily we use in linux
 # user add & user del
 ![image](https://user-images.githubusercontent.com/81065703/157699270-e7287df7-aa9f-4a2c-a57b-30bf1e8bf399.png)
 
-# programs are coming soon..... :)
+# The programs are the above shell programming for bigginers i will show with one example how to linux file should be opened
+
+# This way to open the file in the below image:
+![image](https://user-images.githubusercontent.com/81065703/157706853-f2b6c162-6228-44e6-81aa-18fdef71dfe9.png)
+
+# This way to write the code in the below image:
+![image](https://user-images.githubusercontent.com/81065703/157706672-8b19f636-b9cb-4b9a-aa7d-f619963b9b79.png)
+
+# This way to run the code in the below image:
+![image](https://user-images.githubusercontent.com/81065703/157707013-3e53a67a-8b4c-4f48-b6ce-ede2fccc9eac.png)
+
+# This is 1st program
+
+# DO The process completly 
+
+# The outputs of 2nd to last programming images are below:
+
+![image](https://user-images.githubusercontent.com/81065703/157707418-6c98adf6-043a-4cd3-b6cc-414e693ae9f2.png)
+
+![image](https://user-images.githubusercontent.com/81065703/157707459-b07e8583-6256-4e1a-af0c-c42778f124b9.png)
+
+![image](https://user-images.githubusercontent.com/81065703/157707492-2d9b4e94-d7cf-4e94-944e-5637b47c83c3.png)
+
+![image](https://user-images.githubusercontent.com/81065703/157707539-458c78bc-a05a-4c42-967d-e20a584ace13.png)
+
+![image](https://user-images.githubusercontent.com/81065703/157707605-471f50e3-c72e-4481-9046-6213882ba198.png)
+
+![image](https://user-images.githubusercontent.com/81065703/157707642-c72cbaa8-b745-4325-ad88-0ebb92686b79.png)
+
+![image](https://user-images.githubusercontent.com/81065703/157707686-f59512eb-4d52-4b73-8254-9ac31756d2a2.png)
+
+![image](https://user-images.githubusercontent.com/81065703/157707741-8e25f2ef-51bc-412e-8bd8-aeaaa6d4724d.png)
+
+![image](https://user-images.githubusercontent.com/81065703/157707794-1fda2f1f-5153-473b-87c7-e9b8dc5743ba.png)
+
+![image](https://user-images.githubusercontent.com/81065703/157707843-2f66b652-369a-4093-8ef5-ae4d1eed4100.png)
+
+![image](https://user-images.githubusercontent.com/81065703/157707915-0569e394-81e6-44b9-ad74-8bf1e199104b.png)
+
+# any doubts please contact in my gmail:
+swayampakulavsspavanakasinadha@gmail.com
