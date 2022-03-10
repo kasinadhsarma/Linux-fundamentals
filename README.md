@@ -1,8 +1,10 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkasinadhsarma%2Fethicalhacking-beginners.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkasinadhsarma%2Fethicalhacking-beginners?ref=badge_shield)
+[![CodeFactor](https://www.codefactor.io/repository/github/kasinadhsarma/ethicalhacking-beginners/badge)](https://www.codefactor.io/repository/github/kasinadhsarma/ethicalhacking-beginners)
+
 Hi Hello today we see about 34 command lines daily we use in linux
 
 # Cd -change dictionary
 ![image](https://user-images.githubusercontent.com/81065703/157693802-0468d5c6-38c1-4617-b7ac-877b339a9aa1.png)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkasinadhsarma%2Fethicalhacking-beginners.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkasinadhsarma%2Fethicalhacking-beginners?ref=badge_shield)
 
 # Pwd- print working dictionary
 ![image](https://user-images.githubusercontent.com/81065703/157694027-bbdc6a3a-df5e-4fce-b2ba-03f39cd6e643.png)
