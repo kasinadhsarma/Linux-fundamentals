@@ -1,5 +1,5 @@
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkasinadhsarma%2Fethicalhacking-beginners.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkasinadhsarma%2Fethicalhacking-beginners?ref=badge_shield)
-[![CodeFactor](https://www.codefactor.io/repository/github/kasinadhsarma/ethicalhacking-beginners/badge)](https://www.codefactor.io/repository/github/kasinadhsarma/ethicalhacking-beginners)
+[![CodeFactor](https://www.codefactor.io/repository/github/kasinadhsarma/linux-fundamentals/badge)](https://www.codefactor.io/repository/github/kasinadhsarma/linux-fundamentals)
 
 Hi Hello today we see about 34 command lines daily we use in linux
 
