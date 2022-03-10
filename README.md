@@ -79,7 +79,7 @@ Hi Hello today we see about 34 command lines daily we use in linux
 ![image](https://user-images.githubusercontent.com/81065703/157698498-1fe14308-c52f-4a12-b08f-b9fcfd3db6de.png)
 
 # uname
-![image](https://user-images.githubusercontent.com/81065703/157698667-aa0711a7-3b11-4d8d-936a-775ac68e76d7.png)
+![image](https://user-images.githubusercontent.com/81065703/157699683-d69e0fa6-074f-4f9f-966a-916973eca16b.png)
 
 # Top
 ![image](https://user-images.githubusercontent.com/81065703/157698735-8a50a3df-7dce-4afc-bec8-d042030b6747.png)
