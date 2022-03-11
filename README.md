@@ -4,28 +4,36 @@
 ### Linux fundamentals by kasinadhsarma
 
 - `Cd` -change dictionary
-![image](https://user-images.githubusercontent.com/81065703/157693802-0468d5c6-38c1-4617-b7ac-877b339a9aa1.png)
+
+  ![image](https://user-images.githubusercontent.com/81065703/157693802-0468d5c6-38c1-4617-b7ac-877b339a9aa1.png)
 
 - `Pwd`- print working dictionary
-![image](https://user-images.githubusercontent.com/81065703/157694027-bbdc6a3a-df5e-4fce-b2ba-03f39cd6e643.png)
+
+  ![image](https://user-images.githubusercontent.com/81065703/157694027-bbdc6a3a-df5e-4fce-b2ba-03f39cd6e643.png)
 
 - `ls` -list
-![image](https://user-images.githubusercontent.com/81065703/157694286-5175200d-b56a-4607-ada6-c2bcea23f72c.png)
+
+  ![image](https://user-images.githubusercontent.com/81065703/157694286-5175200d-b56a-4607-ada6-c2bcea23f72c.png)
 
 - `cat` -concatenate
-![image](https://user-images.githubusercontent.com/81065703/157694706-7ee2e552-c3b1-4c91-8ea5-b9a1e6f13de0.png)
+
+  ![image](https://user-images.githubusercontent.com/81065703/157694706-7ee2e552-c3b1-4c91-8ea5-b9a1e6f13de0.png)
 
 - ` cp` -copy
-![image](https://user-images.githubusercontent.com/81065703/157694932-23cd270a-4dbd-4012-b8b5-38c4ffd282d1.png)
+
+  ![image](https://user-images.githubusercontent.com/81065703/157694932-23cd270a-4dbd-4012-b8b5-38c4ffd282d1.png)
 
 - `mv` -move
-![image](https://user-images.githubusercontent.com/81065703/157695002-22405b1d-3fcb-41c7-9f36-3b6f781a2c54.png)
+
+  ![image](https://user-images.githubusercontent.com/81065703/157695002-22405b1d-3fcb-41c7-9f36-3b6f781a2c54.png)
 
 - `mkdir` -make a new dictionary
-![image](https://user-images.githubusercontent.com/81065703/157695121-152d4a1a-698e-4f62-af39-acb23376c51d.png)
+
+  ![image](https://user-images.githubusercontent.com/81065703/157695121-152d4a1a-698e-4f62-af39-acb23376c51d.png)
 
 - `rmdir` -remove a dictionary
-![image](https://user-images.githubusercontent.com/81065703/157695268-80d37d56-8ba7-4257-8121-9032837f17a9.png)
+
+  ![image](https://user-images.githubusercontent.com/81065703/157695268-80d37d56-8ba7-4257-8121-9032837f17a9.png)
 
 - ` rm` - remove
   
@@ -76,7 +84,8 @@
   ![image](https://user-images.githubusercontent.com/81065703/157697318-21d031b9-3242-487a-b351-a203799a5016.png)
 
 - `chmod` -change mode of access
-![image](https://user-images.githubusercontent.com/81065703/157697707-02d3cb87-19b8-41c9-849e-3859f4f65e4b.png)
+
+  ![image](https://user-images.githubusercontent.com/81065703/157697707-02d3cb87-19b8-41c9-849e-3859f4f65e4b.png)
 
 - `chown`- change owner of access
 
